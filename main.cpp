@@ -16,4 +16,5 @@ int main()
 void summ(int a, int b)
 {
     cout << a + b << endl;
+    cout << a - b << endl;
 }
